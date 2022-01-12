@@ -1,0 +1,25 @@
+{
+  "name": "todo-manager-api",
+  "version": "1.0.0",
+  "description": "This is todo manager api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/budhasanjeev/todo-manager-api.git"
+  },
+  "keywords": [],
+  "author": "Sanjeev Budha <budhasanjeev@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/budhasanjeev/todo-manager-api/issues"
+  },
+  "homepage": "https://github.com/budhasanjeev/todo-manager-api#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}
